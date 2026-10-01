@@ -1,0 +1,3 @@
+Plan d'adressage - salle B204
+VLAN 10 ADMIN 192.168.10.0/24 passerelle 192.168.10.254
+VLAN 20 ELEVES 192.168.20.0/24 passerelle 192.168.20.254
